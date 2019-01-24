@@ -46,7 +46,6 @@ jar {
     }
 }
 spotbugs {
-    toolVersion = '1.6.9'
     ignoreFailures = false
 
 }
