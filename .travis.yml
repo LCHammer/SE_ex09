@@ -1,4 +1,5 @@
 language: java
 
 script:
-  - ./gradlew build --scan -s
+  - cd flashcards
+  - gradle build
