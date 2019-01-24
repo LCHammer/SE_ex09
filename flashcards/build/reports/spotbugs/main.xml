@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="3.1.3" sequence="0" timestamp="1548245841461" analysisTimestamp="1548245841734" release="">
+<BugCollection version="3.1.3" sequence="0" timestamp="1548343460637" analysisTimestamp="1548343460760" release="">
   <Project projectName="">
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\MacOSXIntegration.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\Main.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Command.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistory.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$2.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$3.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardObserver.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeries.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategies.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\Permutation.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$2.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$3.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$4.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\persistence\Store.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$2.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$2.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$3.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$4.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$5.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$6.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$7.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$1.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$2.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$3.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$State.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\Utilities.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\st\constraints\NotNull.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\st\constraints\Null.class</Jar>
-    <Jar>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main\de\tud\cs\util\Arrays.class</Jar>
-    <AuxClasspathEntry>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\classes\java\main</AuxClasspathEntry>
-    <AuxClasspathEntry>C:\Users\Kris\Desktop\ex09\ex09\flashcards\build\resources\main</AuxClasspathEntry>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\MacOSXIntegration.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\Main.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Command.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistory.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$2.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$3.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardObserver.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeries.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategies.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\Permutation.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$2.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$3.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$4.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\persistence\Store.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$2.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$2.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$3.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$4.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$5.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$6.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$7.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$1.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$2.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$3.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$State.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\Utilities.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\st\constraints\NotNull.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\st\constraints\Null.class</Jar>
+    <Jar>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main\de\tud\cs\util\Arrays.class</Jar>
+    <AuxClasspathEntry>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\classes\java\main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\build\resources\main</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\26.0-jre\6a806eff209f36f635f943e16d97491f00f6bfab\guava-26.0-jre.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\2.5.2\cea74543d5904a30861a61b4643a5f2bb372efc4\checker-qual-2.5.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.1.3\39b109f2cd352b2d71b52a3b5a1a9850e1dc304b\error_prone_annotations-2.1.3.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.1\976d8d30bebc251db406f2bdb3eb01962b5685b3\j2objc-annotations-1.1.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\Kris\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.14\775b7e22fb10026eed3f86e8dc556dfafe35f2d5\animal-sniffer-annotations-1.14.jar</AuxClasspathEntry>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\Main.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Command.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\st\constraints\NotNull.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\st\constraints\Null.java</SrcDir>
-    <SrcDir>C:\Users\Kris\Desktop\ex09\ex09\flashcards\src\main\java\de\tud\cs\util\Arrays.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\Main.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Command.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\st\constraints\NotNull.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\st\constraints\Null.java</SrcDir>
+    <SrcDir>C:\cygwin64\home\Kris\Git\SE_ex09\flashcards\src\main\java\de\tud\cs\util\Arrays.java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Wed, 23 Jan 2019 13:17:21 +0100" total_classes="61" referenced_classes="416" total_bugs="0" total_size="1881" num_packages="7" java_version="1.8.0_191" vm_version="25.191-b12" cpu_seconds="55.92" clock_seconds="26.49" peak_mbytes="243.08" alloc_mbytes="455.50" gc_seconds="0.80">
+  <FindBugsSummary timestamp="Thu, 24 Jan 2019 16:24:20 +0100" total_classes="61" referenced_classes="416" total_bugs="0" total_size="1881" num_packages="7" java_version="1.8.0_191" vm_version="25.191-b12" cpu_seconds="41.59" clock_seconds="16.29" peak_mbytes="239.54" alloc_mbytes="455.50" gc_seconds="0.54">
     <PackageStats package="de.tud.cs.se.flashcards" total_bugs="0" total_types="2" total_size="75">
       <ClassStats class="de.tud.cs.se.flashcards.MacOSXIntegration" sourceFile="MacOSXIntegration.java" interface="false" size="38" bugs="0"/>
       <ClassStats class="de.tud.cs.se.flashcards.Main" sourceFile="Main.java" interface="false" size="37" bugs="0"/>
@@ -183,19 +183,17 @@
       <ClassStats class="de.tud.cs.util.Arrays" sourceFile="Arrays.java" interface="false" size="94" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="7872" invocations="1843" avgMicrosecondsPerInvocation="4271" maxMicrosecondsPerInvocation="355370" standardDeviationMicrosecondsPerInvocation="16514"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2353" invocations="1837" avgMicrosecondsPerInvocation="1281" maxMicrosecondsPerInvocation="279626" standardDeviationMicrosecondsPerInvocation="10238"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1805" invocations="416" avgMicrosecondsPerInvocation="4339" maxMicrosecondsPerInvocation="415268" standardDeviationMicrosecondsPerInvocation="24029"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="1750" invocations="1107" avgMicrosecondsPerInvocation="1581" maxMicrosecondsPerInvocation="327430" standardDeviationMicrosecondsPerInvocation="14315"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="1321" invocations="416" avgMicrosecondsPerInvocation="3176" maxMicrosecondsPerInvocation="264185" standardDeviationMicrosecondsPerInvocation="17590"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="583" invocations="328" avgMicrosecondsPerInvocation="1779" maxMicrosecondsPerInvocation="138183" standardDeviationMicrosecondsPerInvocation="11197"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="472" invocations="416" avgMicrosecondsPerInvocation="1136" maxMicrosecondsPerInvocation="254847" standardDeviationMicrosecondsPerInvocation="14441"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="448" invocations="346" avgMicrosecondsPerInvocation="1295" maxMicrosecondsPerInvocation="258327" standardDeviationMicrosecondsPerInvocation="14714"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="443" invocations="416" avgMicrosecondsPerInvocation="1066" maxMicrosecondsPerInvocation="188940" standardDeviationMicrosecondsPerInvocation="9728"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="371" invocations="416" avgMicrosecondsPerInvocation="892" maxMicrosecondsPerInvocation="163117" standardDeviationMicrosecondsPerInvocation="9561"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="368" invocations="323" avgMicrosecondsPerInvocation="1139" maxMicrosecondsPerInvocation="48007" standardDeviationMicrosecondsPerInvocation="4742"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="345" invocations="319" avgMicrosecondsPerInvocation="1082" maxMicrosecondsPerInvocation="52638" standardDeviationMicrosecondsPerInvocation="4546"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="343" invocations="1783" avgMicrosecondsPerInvocation="192" maxMicrosecondsPerInvocation="138552" standardDeviationMicrosecondsPerInvocation="3434"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="4497" invocations="1843" avgMicrosecondsPerInvocation="2440" maxMicrosecondsPerInvocation="449154" standardDeviationMicrosecondsPerInvocation="15864"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1746" invocations="1837" avgMicrosecondsPerInvocation="950" maxMicrosecondsPerInvocation="108268" standardDeviationMicrosecondsPerInvocation="5208"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1018" invocations="416" avgMicrosecondsPerInvocation="2449" maxMicrosecondsPerInvocation="169283" standardDeviationMicrosecondsPerInvocation="14416"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="729" invocations="416" avgMicrosecondsPerInvocation="1753" maxMicrosecondsPerInvocation="131141" standardDeviationMicrosecondsPerInvocation="9007"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="620" invocations="1107" avgMicrosecondsPerInvocation="560" maxMicrosecondsPerInvocation="99148" standardDeviationMicrosecondsPerInvocation="4759"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="493" invocations="416" avgMicrosecondsPerInvocation="1186" maxMicrosecondsPerInvocation="174619" standardDeviationMicrosecondsPerInvocation="10635"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="377" invocations="1783" avgMicrosecondsPerInvocation="211" maxMicrosecondsPerInvocation="88832" standardDeviationMicrosecondsPerInvocation="2704"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="307" invocations="416" avgMicrosecondsPerInvocation="738" maxMicrosecondsPerInvocation="130675" standardDeviationMicrosecondsPerInvocation="7458"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="306" invocations="416" avgMicrosecondsPerInvocation="735" maxMicrosecondsPerInvocation="155018" standardDeviationMicrosecondsPerInvocation="8537"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUnsatisfiedObligation" totalMilliseconds="270" invocations="61" avgMicrosecondsPerInvocation="4432" maxMicrosecondsPerInvocation="238097" standardDeviationMicrosecondsPerInvocation="30182"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="214" invocations="319" avgMicrosecondsPerInvocation="672" maxMicrosecondsPerInvocation="21872" standardDeviationMicrosecondsPerInvocation="1668"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
