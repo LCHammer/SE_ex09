@@ -4,4 +4,4 @@ jdk:
   - oraclejdk8
 script:
   - cd flashcards
-  - gradle build
+  - gradle build --stacktrace
